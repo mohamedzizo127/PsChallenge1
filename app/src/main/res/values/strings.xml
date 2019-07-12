@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Phase1Challenge</string>
+    <string name="welcome">Welcome To ALC 4.0</string>
+    <string name="about">about ALC</string>
+    <string name="my_profile">My Profile</string>
+    <string name="label_main_activity">ALC 4 Phase 1</string>
+    <string name="title_activity_my_profile">MyProfileActivity</string>
+    <string name="my_name">Mohamed Abd ElAziz Ali</string>
+    <string name="track">track: Android</string>
+    <string name="country">Country: Egypt</string>
+    <string name="phone">Phone: +2 01272492031</string>
+    <string name="email">Email: mohamed_zizo127@yahoo.com</string>
+    <string name="slack_username">Slack Username: Mohamed Ali</string>
+    <string name="title_activity_about_alc">AboutALCActivity</string>
+
+
+</resources>
